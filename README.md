@@ -1,19 +1,13 @@
 # Angular Interview Questions & Answers
 
-> Click :star:if you like the project and follow [@SudheerJonna](https://twitter.com/SudheerJonna) for technical updates. 
+> Click :star:if you like the project and follow [@Raj-rathod](https://github.com/raj-rathod) for technical updates. 
 
 ---
 
 <p align="center">
-  <a href=https://zerotomastery.io/?utm_source=github&utm_medium=sponsor&utm_campaign=angular-interview-questions>
-    <img src=https://process.fs.teachablecdn.com/ADNupMnWyR7kCWRvm76Laz/resize=height:70/https://www.filepicker.io/api/file/AKYtjj5SSGyJuyZrkAB2 alt="ZTM Logo" width="100" height="50">
+  <a href="https://raj-rathod.github.io/DSA-visualisation-in-angular/">
+    <img src="https://github.com/raj-rathod/DSA-visualisation-in-angular/blob/main/src/assets/icons/dsa-logo.png" alt="DSA Logo">
   </a>
-  <p align="center">
-    <ol>
-    <li>Take this <a href=https://links.zerotomastery.io/angular_sudheer>Angular course</a> to go from a complete Angular beginner to confidently building enterprise-level applications from scratch</li>
-    <li>Take this <a href=https://links.zerotomastery.io/mci_sudheer3>coding interview bootcamp</a> if you’re serious about getting hired and don’t have a CS degree</li>
-    </ol>
-  </p>
 </p>
 
 ---
@@ -4719,3 +4713,16 @@
       ```
       
       **[⬆ Back to Top](#table-of-contents)**
+      
+
+## Connect with me ~Rajesh Rathore
+
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/rajesh-rathore-0501/)
+[![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://linktr.ee/rajesh_rathore)
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/Rajesh946055)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/raj_rathod1313/?hl=en)
+
+
+***Do star, fork and share the repo to show your support, it would help others too!***   <br>
+ <br>
+ Let me know your views or any changes or improvements or contribute to make better for others 
