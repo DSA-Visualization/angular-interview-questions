@@ -36,7 +36,6 @@
 |18| [How is Dependency Hierarchy formed?](#how-is-dependency-hierarchy-formed)|
 |19| [What is the purpose of async pipe?](#what-is-the-purpose-of-async-pipe)|
 |20| [What is the option to choose between inline and external template file?](#what-is-the-option-to-choose-between-inline-and-external-template-file)|
-
 |23| [What happens if you use script tag inside template?](#what-happens-if-you-use-script-tag-inside-template)|
 |24| [What is interpolation?](#what-is-interpolation)|
 |25| [What are template expressions?](#what-are-template-expressions)|
@@ -46,10 +45,8 @@
 |29| [What is a parameterized pipe?](#what-is-a-parameterized-pipe)|
 |30| [How do you chain pipes?](#how-do-you-chain-pipes)|
 |31| [What is a custom pipe?](#what-is-a-custom-pipe)|
-
 |33| [What is the difference between pure and impure pipe?](#what-is-the-difference-between-pure-and-impure-pipe)|
 |34| [What is a bootstrapping module?](#what-is-a-bootstrapping-module)|
-
 |36| [What is HttpClient and its benefits?](#what-is-httpclient-and-its-benefits)|
 |37| [Explain on how to use HttpClient with an example?](#explain-on-how-to-use-httpclient-with-an-example)|
 |38| [How can you read full response?](#how-can-you-read-full-response)|
